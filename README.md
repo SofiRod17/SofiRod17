@@ -24,7 +24,7 @@
 #### 🔹 [Laboratório Cultural - ISPGAYA]
 - **Descrição:** Aplicação web desenvolvida em Python para gestão e processamento de dados com arquitetura de backend integrada.
 - **Tecnologias:** Python, Flask, HTML/CSS, JavaScript, MySQL
-- 🔗 [Ver Repositório](https://github.com/SofiRod17) *(adiciona o link direto)*
+- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural)) *(adiciona o link direto)*
 
 ---
 
