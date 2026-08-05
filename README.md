@@ -19,16 +19,16 @@
 #### 🔹 TexFlow — Sistema de Gestão de Produção Têxtil
 - **Descrição:** Conceção e implementação de um sistema web com suporte a base de dados relacional para monitorização e controlo do processo produtivo.
 - **Tecnologias:** PHP, MySQL, PL/SQL, HTML/CSS
-- 🔗 [Ver Repositório](https://github.com/SofiRod17/TexFlow) *(ajusta o link se o nome da pasta for diferente)*
+- 🔗 [Ver Repositório](https://github.com/SofiRod17/TexFlow) 
 
 #### 🔹 [Laboratório Cultural - ISPGAYA]
 - **Descrição:** Aplicação web desenvolvida em Python para gestão e processamento de dados com arquitetura de backend integrada.
 - **Tecnologias:** Python, Flask, HTML/CSS, JavaScript, MySQL
-- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural)) *(adiciona o link direto)*
+- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural)) 
 
 ---
 
 ### 📫 Contacto & Conexão
 
-- 💼 **LinkedIn:** [linkedin.com/in/o-teu-perfil](https://linkedin.com)
+- 💼 **LinkedIn:** 
 - ✉️ **Email:** angela.adeg@gmail.com
