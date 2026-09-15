@@ -1,4 +1,4 @@
-# Olá, sou a Ângela Rodrigues 👋
+# Olá, sou a Sofia Rodrigues 👋
 
 🎓 **Estudante Finalista de Engenharia Informática no ISPGAYA**  
 💻 Focada em **Engenharia de Software, Desenvolvimento Web (Full-Stack), Bases de Dados e DevOps**.
