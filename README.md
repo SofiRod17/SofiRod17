@@ -21,10 +21,17 @@
 - **Tecnologias:** PHP, MySQL, PL/SQL, HTML/CSS
 - 🔗 [Ver Repositório](https://github.com/SofiRod17/TexFlow) 
 
-#### 🔹 [Laboratório Cultural - ISPGAYA]
+#### 🔹 Laboratório Cultural - ISPGAYA
 - **Descrição:** Aplicação web desenvolvida em Python para gestão e processamento de dados com arquitetura de backend integrada.
 - **Tecnologias:** Python, Flask, HTML/CSS, JavaScript, MySQL
-- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural)) 
+- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural))
+
+#### 🔹 Gestor de Biblioteca — Aplicação de Consola em C#
+- **Descrição:** Conceção e implementação de uma aplicação de consola aplicando os quatro pilares da Programação Orientada a Objetos e princípios SOLID, com arquitetura em camadas e injeção de dependências.
+- **Tecnologias:** C# · .NET 8 · POO · SOLID
+- - 🔗 [Ver Repositório](https://github.com/SofiRod17/GestorBiblioteca))
+
+
 
 ---
 
