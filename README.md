@@ -1,36 +1,43 @@
 # Olá, sou a Sofia Rodrigues 👋
 
-🎓 **Estudante Finalista de Engenharia Informática no ISPGAYA**  
-💻 Focada em **Engenharia de Software, Desenvolvimento Web (Full-Stack), Bases de Dados**.
+🎓 **Estudante de Engenharia Informática no ISPGAYA** (finalista · conclusão em 2027)  
+💻 Focada em **Engenharia de Software, Desenvolvimento Web Full-Stack e Bases de Dados**  
+🔄 Em transição para a área tecnológica depois de mais de uma década em gestão de dados e processos — trago rigor, organização e muita vontade de aprender.
+
+📫 [LinkedIn](https://www.linkedin.com/in/angelasofiarodrigues/) · angela.adeg@gmail.com
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens & Web:** Python, PHP, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks:** Flask
+- **Linguagens:** C#, Python, PHP, JavaScript (ES6+), SQL
+- **Web:** HTML5, CSS3, Bootstrap
+- **Frameworks:** .NET, Flask
 - **Bases de Dados:** MySQL, SQL Server, PL/SQL
-- **DevOps & Infraestrutura:** Docker, Git, GitHub, Noções de Cloud (AWS)
+- **Ferramentas:** Git, GitHub, Docker, Visual Studio, VS Code
 
 ---
 
 ### 🚀 Projetos em Destaque
 
 #### 🔹 TexFlow — Sistema de Gestão de Produção Têxtil
-- **Descrição:** Conceção e implementação de um sistema web com suporte a base de dados relacional para monitorização e controlo do processo produtivo.
-- **Tecnologias:** PHP, MySQL, PL/SQL, HTML/CSS
-- 🔗 [Ver Repositório](https://github.com/SofiRod17/TexFlow) 
+Aplicação web para monitorização e controlo do processo produtivo têxtil, com base de dados relacional e operações CRUD.  
+**Tecnologias:** PHP · SQL Server (T-SQL) · Bootstrap · JavaScript · HTML/CSS  
+🔒 *Repositório privado — código disponível a pedido*
 
-#### 🔹 Laboratório Cultural - ISPGAYA
-- **Descrição:** Aplicação web desenvolvida em Python para gestão e processamento de dados com arquitetura de backend integrada.
-- **Tecnologias:** Python, Flask, HTML/CSS, JavaScript, MySQL
-- 🔗 [Ver Repositório](https://github.com/SofiRod17/InforCultural))
+#### 🔹 Laboratório Cultural — ISPGAYA
+Aplicação web em Python/Flask para gestão e processamento de dados, com backend estruturado e base de dados MySQL.  
+**Tecnologias:** Python · Flask · MySQL · JavaScript · HTML/CSS · Postman  
+🔒 *Repositório privado — código disponível a pedido*
 
 #### 🔹 Gestor de Biblioteca — Aplicação de Consola em C#
-- **Descrição:** Conceção e implementação de uma aplicação de consola aplicando os quatro pilares da Programação Orientada a Objetos e princípios SOLID, com arquitetura em camadas e injeção de dependências.
-- **Tecnologias:** C# · .NET 8 · POO · SOLID
-- - 🔗 [Ver Repositório](https://github.com/SofiRod17/GestorBiblioteca))
+Aplicação de consola aplicando os quatro pilares da POO e princípios SOLID, com arquitetura em camadas e injeção de dependências.  
+**Tecnologias:** C# · .NET 8 · POO · SOLID  
+🔒 *Repositório privado — código disponível a pedido*
 
+---
+
+⭐ *Sempre a aprender e à procura de novos desafios. Vamos conversar!*
 
 
 ---
