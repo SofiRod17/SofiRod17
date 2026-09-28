@@ -44,5 +44,5 @@ Aplicação de consola aplicando os quatro pilares da POO e princípios SOLID, c
 
 ### 📫 Contacto & Conexão
 
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** www.linkedin.com/in/angelasofiarodrigues
 - ✉️ **Email:** angela.adeg@gmail.com
